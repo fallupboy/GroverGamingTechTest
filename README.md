@@ -1,7 +1,7 @@
 # Grover Gaming Tech Test
 
 In this application you can manage the Employee Directory by viewing, adding, updating and removing employees using Windows Forms .NET/C#.
-The structure of the project is created with the help of Dependency Injection design pattern, which allowed me to create loosely coupled classes. It will also allow me to better make future changes inside the application. Overall this is the great way to make code maintanable.
+The structure of the project is created with the help of Dependency Injection design pattern, which helps me to create loosely coupled classes. It will also allow me to make future changes inside the application more comfortable and much faster. Overall this is the great way to make code maintanable.
 Another technology I am using in this project is the ORM framework called Entity Framework. It helps me to work with the database using .NET objects. It saves data stored in the properties of entities and also retrieves data from the database and converts it to entities objects automatically.
 There were some challanges like Dependency Injection setting and services configuring in application. But everything was organized and deployed.
 
