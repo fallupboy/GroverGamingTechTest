@@ -7,7 +7,7 @@ There were some challanges like Dependency Injection setting and services config
 
 To test this application you have to follow next steps:
 1. Download the project with ZIP archive and extract it to a separate folder.
-2. Open .sln file with Visual Studio.
+2. Open project .sln file using Visual Studio.
 3. Build and run the "EmployeeDirectory" project.
 4. After application opening you can try out all the functions by clicking the buttons and filling out forms.
 
