@@ -51,6 +51,7 @@
             // 
             nameTextBox.Anchor = AnchorStyles.Top | AnchorStyles.Bottom;
             nameTextBox.Location = new Point(159, 39);
+            nameTextBox.MaxLength = 50;
             nameTextBox.Name = "nameTextBox";
             nameTextBox.Size = new Size(200, 27);
             nameTextBox.TabIndex = 1;
@@ -59,6 +60,7 @@
             // 
             jobTypeTextBox.Anchor = AnchorStyles.Top | AnchorStyles.Bottom;
             jobTypeTextBox.Location = new Point(159, 77);
+            jobTypeTextBox.MaxLength = 50;
             jobTypeTextBox.Name = "jobTypeTextBox";
             jobTypeTextBox.Size = new Size(200, 27);
             jobTypeTextBox.TabIndex = 2;
