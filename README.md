@@ -14,3 +14,8 @@ To test this application you have to follow next steps:
 Some advices:
 - If you want to clean up the database you can uncomment line 24 in 'MainForm.cs' file and rebuild the project.
 - If you would like to change default employees data, you can modify it in 'EmployeeContext.cs' file.
+
+NuGet packages used in project:
+- Microsoft.EntityFrameworkCore.Sqllite
+- Microsoft.Extensions.DependencyInjection.Abstractions
+- Microsoft.Extensions.Hosting
